@@ -4,7 +4,7 @@ Hi 👋 My name is Danny Foley
 UofL Computer Science and Engineering Graduate
 ----------------------------------------------
 
-I've been coding and studying for the past 6 years. I like to be
+I've been coding and studying for the past 6 years. I'm looking for opportunities within the application development sector.
 
 * 🌍  I'm based in Louisville, Kentucky
 * ✉️  You can contact me at [djfol@twc.com](mailto:djfol@twc.com)

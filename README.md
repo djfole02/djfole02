@@ -8,7 +8,7 @@ I've been coding and studying for the past 6 years. I'm looking for opportunitie
 
 * 🌍  I'm based in Louisville, Kentucky
 * ✉️  You can contact me at [djfol@twc.com](mailto:djfol@twc.com)
-* 🧠  I'm learning JavaScript / HTML / CSS / C#
+* 🧠  I'm currently learning JavaScript / HTML / CSS / C#
 
 ### Skills
 

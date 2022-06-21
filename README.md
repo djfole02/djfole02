@@ -34,5 +34,6 @@ I've been coding and studying for the past 6 years. I like to be
 <a href="https://github.com/djfole02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djfole02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
+<div width="100%" align="center"><a href="https://github.com/djfole02/https://github.com/djfole02/Artificial-Intelligence" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=djfole02&repo=https://github.com/djfole02/Artificial-Intelligence&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/djfole02/https://github.com/djfole02/sudoku_solver" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=djfole02&repo=https://github.com/djfole02/sudoku_solver&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />

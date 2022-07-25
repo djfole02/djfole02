@@ -11,6 +11,7 @@ While I may not have much experience in certain frameworks, I am very adept at l
 * 🌍  I'm based in Louisville, Kentucky
 * ✉️  You can contact me at [djfol@twc.com](mailto:djfol@twc.com)
 * 🧠  I'm currently learning JavaScript / HTML / CSS / C#
+*     Enrolled in a Deeplearning.ai course from Coursera
 
 ### Skills
 

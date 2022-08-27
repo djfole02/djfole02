@@ -10,7 +10,7 @@ While I may not have much experience in certain frameworks, I am very adept at l
 
 * 🌍  I'm based in Louisville, Kentucky
 * ✉️  You can contact me at [djfol@twc.com](mailto:djfol@twc.com)
-* 🧠  I'm currently learning JavaScript / HTML / CSS / Carbon (Google C++), also enrolled in a Deeplearning.ai course from Coursera
+* 🧠  I'm currently learning JavaScript / HTML / CSS / Carbon (Google C++), also enrolled in Meta's Back End Course
 * https://coursera.org/share/75cbf20bd9b10e6bba465f2957345a8d
 
 
